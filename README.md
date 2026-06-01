@@ -14,6 +14,16 @@ A smart, community-driven platform designed to minimize waste, promote sustainab
 
 ---
 
+## ⚙️ Planned Architecture & Modules
+
+The platform is structured into four main operational components:
+1. **The Classification Engine:** The system processes user-submitted items to determine recyclability and offers proper disposal instructions.
+2. **The Geo-Location Module:** Automatically cross-references user coordinates with a verified local database of recycling centers and drop-off hubs.
+3. **The User Journal:** Stores persistent data regarding daily milestones, active streak counts, and personal waste reduction metrics.
+4. **The Community Feed:** A lightweight social dashboard that aggregates local events, announcements, and crowd-sourced sustainability tips.
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 * **Frontend:** HTML5, CSS3, JavaScript (Responsive Design)
@@ -25,3 +35,4 @@ A smart, community-driven platform designed to minimize waste, promote sustainab
 ## 📈 Project Status
 
 > 🚧 **In Development:** Currently building the core routing algorithms, UI layouts, and integrating the priority database logic. Stay tuned for the first official release!
+
